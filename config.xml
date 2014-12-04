@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns       = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.theorioncorrelation"
+        versionCode = ""
+        version     = "1.0" >
+
+	<name>The Orion Correlation</name>
+
+	<description></description>
+
+	<author href="https://www.theorioncorrelation.com" email=""></author>
+
+	<gap:platform name="android" />
+	
+	<preference name="disallowOverscroll" value="true" />
+	<preference name="webviewbounce" value="false" />
+	
+	<!-- Add Icon, Splash screen and any PhoneGap plugin declaration here -->
+
+	<gap:plugin name="org.apache.cordova.inappbrowser" />
+	<gap:plugin name="org.apache.cordova.network-information" />
+
+</widget>
