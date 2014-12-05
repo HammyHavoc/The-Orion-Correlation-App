@@ -2,14 +2,14 @@
 <widget xmlns       = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "com.theorioncorrelation"
-        versionCode = ""
+        versionCode = "1.0"
         version     = "1.0" >
 
 	<name>The Orion Correlation</name>
 
 	<description></description>
 
-	<author href="https://www.theorioncorrelation.com" email=""></author>
+	<author href="https://www.theorioncorrelation.com" email="hammy@theorioncorrelation.com"></author>
 
 	<gap:platform name="android" />
 	
