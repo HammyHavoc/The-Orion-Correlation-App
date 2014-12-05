@@ -18,6 +18,8 @@
 	
 	<!-- Add Icon, Splash screen and any PhoneGap plugin declaration here -->
 
+	<icon src="https://www.theorioncorrelation.com/wp-content/uploads/2014/12/The-Orion-Correlation-Facebook-Avatar.jpg" gap:platform="android" gap:qualifier="ldpi" />
+
 	<gap:plugin name="org.apache.cordova.inappbrowser" />
 	<gap:plugin name="org.apache.cordova.network-information" />
 
